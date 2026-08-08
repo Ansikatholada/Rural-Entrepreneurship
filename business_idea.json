@@ -1,0 +1,29 @@
+{
+  "business": {
+    "name": "Lakshmi Millet Foods",
+    "category": "Food and value-added agricultural products",
+    "product": [
+      "Millet snacks",
+      "Millet flour mixes"
+    ],
+    "raw_materials": [
+      "Ragi",
+      "Jowar",
+      "Other locally available millets",
+      "Spices",
+      "Other ingredients"
+    ],
+    "production_location": "Home-based kitchen",
+    "initial_target": "Small-batch production",
+    "business_goal": "Build a sustainable small rural food enterprise",
+    "main_question": "Can this product generate sufficient paid demand and sustainable profit?",
+    "decision_required": [
+      "Proceed",
+      "Pilot",
+      "Modify",
+      "Collaborate",
+      "Test Further",
+      "Pause"
+    ]
+  }
+}
