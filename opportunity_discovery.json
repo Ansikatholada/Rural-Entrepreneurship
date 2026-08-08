@@ -1,0 +1,28 @@
+{
+  "opportunity_discovery": {
+    "method": "Skill + Resource + Customer Problem",
+    "entrepreneur_skill": "Preparing millet-based foods",
+    "available_resource": "Locally available millet",
+    "potential_customer_problem": "Customers seeking convenient and affordable millet-based food products",
+    "opportunity": "Small-batch millet snacks and flour mixes for local households and nearby markets",
+    "discovery_questions": [
+      "What can the entrepreneur make?",
+      "What resources are already available?",
+      "What customer problem does the product solve?",
+      "Who experiences this problem?",
+      "Who can afford the product?",
+      "How frequently might they purchase?",
+      "What existing alternatives do customers use?"
+    ],
+    "output": {
+      "opportunity_statement": "Lakshmi can develop a small-batch millet food business using locally available raw materials and existing food-processing skills.",
+      "evidence_needed": [
+        "Paid customer demand",
+        "Repeat purchase behaviour",
+        "Actual production cost",
+        "Actual transport cost",
+        "Viable selling price"
+      ]
+    }
+  }
+}
