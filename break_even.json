@@ -1,0 +1,16 @@
+{
+  "break_even": {
+    "monthly_fixed_cost": 5000,
+    "contribution_per_unit": 18,
+    "formula": "Fixed costs / Contribution per unit",
+    "break_even_units_per_month": 278,
+    "approximate_daily_units": 10,
+    "decision_question": "Can the entrepreneur realistically sell approximately 278 units per month?",
+    "interpretation": {
+      "if_actual_demand_is_above_break_even": "Consider Proceed or controlled Pilot",
+      "if_actual_demand_is_close_to_break_even": "Pilot and improve efficiency",
+      "if_actual_demand_is_far_below_break_even": "Modify or Test Further",
+      "if_margin_is_negative": "Pause or Modify"
+    }
+  }
+}
