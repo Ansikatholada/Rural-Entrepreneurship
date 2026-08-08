@@ -1,0 +1,32 @@
+{
+  "decision_engine": {
+    "allowed_decisions": [
+      "Proceed",
+      "Pilot",
+      "Modify",
+      "Collaborate",
+      "Test Further",
+      "Pause"
+    ],
+    "decision_rules": {
+      "Proceed": "Use when sufficient paid demand exists, unit economics are positive, risks are manageable and a limited launch is feasible.",
+      "Pilot": "Use when there is promising evidence but demand, repeat purchase or operational feasibility needs controlled testing.",
+      "Modify": "Use when the product, price, customer or channel needs to change before continuing.",
+      "Collaborate": "Use when shared production, procurement, logistics or market access would materially improve viability.",
+      "Test Further": "Use when critical evidence is missing and no reliable decision can yet be made.",
+      "Pause": "Use when current economics are negative or major constraints make the model unlikely to be viable."
+    },
+    "required_reasoning": [
+      "Facts supplied by entrepreneur",
+      "Verified external information",
+      "Assumptions",
+      "Calculations",
+      "Missing evidence",
+      "Reasoning"
+    ],
+    "example_decision": {
+      "decision": "Pilot",
+      "reason": "Initial paid demand and repeat purchases exist, but sustainable monthly demand and long-term retailer behaviour are not yet sufficiently validated."
+    }
+  }
+}
