@@ -1,0 +1,54 @@
+{
+  "customer_segments": [
+    {
+      "segment": "Village households",
+      "accessibility": "High",
+      "potential_volume": "Low to medium",
+      "payment_speed": "Immediate",
+      "digital_requirement": "Low"
+    },
+    {
+      "segment": "Nearby-town households",
+      "accessibility": "Medium",
+      "potential_volume": "Medium",
+      "payment_speed": "Immediate",
+      "digital_requirement": "Medium"
+    },
+    {
+      "segment": "Grocery retailers",
+      "accessibility": "Medium",
+      "potential_volume": "High",
+      "payment_speed": "May be delayed",
+      "digital_requirement": "Low"
+    },
+    {
+      "segment": "Schools and hostels",
+      "accessibility": "Medium",
+      "potential_volume": "High",
+      "payment_speed": "May be delayed",
+      "digital_requirement": "Low to medium"
+    },
+    {
+      "segment": "WhatsApp customers",
+      "accessibility": "Medium",
+      "potential_volume": "Medium",
+      "payment_speed": "Usually immediate",
+      "digital_requirement": "Medium"
+    },
+    {
+      "segment": "Online marketplace customers",
+      "accessibility": "Low initially",
+      "potential_volume": "Potentially high",
+      "payment_speed": "May be delayed",
+      "digital_requirement": "High"
+    }
+  ],
+  "selection_criteria": [
+    "Customer need",
+    "Ability to pay",
+    "Purchase frequency",
+    "Accessibility",
+    "Expected margin",
+    "Logistics complexity"
+  ]
+}
