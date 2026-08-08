@@ -1,0 +1,39 @@
+{
+  "evidence_ledger": {
+    "categories": {
+      "entrepreneur_facts": [
+        "Available capital",
+        "Production capacity",
+        "Existing skills",
+        "Available equipment",
+        "Local raw-material access"
+      ],
+      "verified_external_information": [
+        "Official programme eligibility",
+        "Official scheme details",
+        "Verified market information",
+        "Verified geographic applicability"
+      ],
+      "assumptions": [
+        "Estimated transport cost",
+        "Estimated spoilage",
+        "Expected commission",
+        "Expected repeat-purchase rate"
+      ],
+      "calculations": [
+        "Total cost",
+        "Contribution",
+        "Contribution margin",
+        "Break-even",
+        "Expected monthly profit"
+      ],
+      "missing_evidence": [
+        "Long-term repeat demand",
+        "Actual retailer payment behaviour",
+        "Stable monthly sales volume",
+        "Seasonal demand"
+      ]
+    },
+    "rule": "The AI must never present an assumption as a fact."
+  }
+}
