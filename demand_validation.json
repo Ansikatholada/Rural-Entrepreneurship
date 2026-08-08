@@ -1,0 +1,55 @@
+{
+  "demand_validation": {
+    "principle": "Paid demand is stronger evidence than stated interest",
+    "pilot_test": {
+      "duration_days": 7,
+      "customers_to_approach": 50,
+      "sample_product": "100g millet snack",
+      "test_price": 60,
+      "sales_channels": [
+        "Village direct sales",
+        "Nearby retailers",
+        "WhatsApp pre-orders"
+      ]
+    },
+    "metrics": [
+      "Customers approached",
+      "Customers interested",
+      "Customers who paid",
+      "Units sold",
+      "Repeat customers",
+      "Retailer trial orders",
+      "Retailer reorders",
+      "Unsold units",
+      "Customer complaints"
+    ],
+    "evidence_strength": {
+      "strong": [
+        "Paid order",
+        "Repeat purchase",
+        "Retailer reorder",
+        "Advance payment",
+        "Pre-order"
+      ],
+      "medium": [
+        "Customer enquiry",
+        "Sample accepted"
+      ],
+      "weak": [
+        "Customer says product is good",
+        "Survey interest",
+        "Social media likes"
+      ]
+    },
+    "example_results": {
+      "customers_approached": 50,
+      "interested": 32,
+      "paid_customers": 20,
+      "units_sold": 28,
+      "repeat_customers": 10,
+      "retailers_contacted": 5,
+      "retailer_trial_orders": 3,
+      "unsold_units": 4
+    }
+  }
+}
