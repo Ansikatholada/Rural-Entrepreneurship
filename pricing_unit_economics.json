@@ -1,0 +1,30 @@
+{
+  "unit_economics": {
+    "product": "100g millet snack",
+    "selling_price": 60,
+    "costs": {
+      "millet": 15,
+      "other_ingredients": 4,
+      "entrepreneur_labour": 8,
+      "packaging": 5,
+      "fuel_electricity": 2,
+      "transport": 3,
+      "spoilage": 2,
+      "commission": 3
+    },
+    "total_cost": 42,
+    "contribution_per_unit": 18,
+    "contribution_margin_percentage": 30,
+    "formula": {
+      "total_cost": "Sum of all variable costs",
+      "contribution": "Selling price - total cost",
+      "contribution_margin": "(Contribution / Selling price) * 100"
+    },
+    "important_rule": "Entrepreneur labour must be included as a real business cost",
+    "assumptions": [
+      "Transport cost is estimated",
+      "Spoilage is estimated",
+      "Commission depends on sales channel"
+    ]
+  }
+}
