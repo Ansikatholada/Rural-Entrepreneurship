@@ -1,0 +1,65 @@
+{
+  "route_to_market": {
+    "channels": [
+      {
+        "name": "Village direct sales",
+        "margin": "High",
+        "volume": "Low to medium",
+        "payment_delay": "Low",
+        "logistics": "Easy",
+        "digital_capability": "Low"
+      },
+      {
+        "name": "Nearby town",
+        "margin": "Medium to high",
+        "volume": "Medium",
+        "payment_delay": "Low",
+        "logistics": "Moderate",
+        "digital_capability": "Medium"
+      },
+      {
+        "name": "Retailers",
+        "margin": "Medium",
+        "volume": "High",
+        "payment_delay": "Medium to high",
+        "logistics": "Moderate",
+        "digital_capability": "Low"
+      },
+      {
+        "name": "Self-help group or cooperative",
+        "margin": "Medium",
+        "volume": "High",
+        "payment_delay": "Variable",
+        "logistics": "Shared",
+        "digital_capability": "Low"
+      },
+      {
+        "name": "WhatsApp sales",
+        "margin": "High",
+        "volume": "Medium",
+        "payment_delay": "Low",
+        "logistics": "Moderate",
+        "digital_capability": "Medium"
+      },
+      {
+        "name": "Online marketplace",
+        "margin": "Variable",
+        "volume": "Potentially high",
+        "payment_delay": "Medium",
+        "logistics": "High",
+        "digital_capability": "High"
+      }
+    ],
+    "recommended_initial_channel": [
+      "Nearby-town retailers",
+      "WhatsApp pre-orders"
+    ],
+    "recommendation_reason": [
+      "Can test demand without large inventory",
+      "Potentially higher volume than village-only sales",
+      "Does not require a complex online marketplace",
+      "Fits current smartphone access",
+      "Creates measurable paid-order evidence"
+    ]
+  }
+}
